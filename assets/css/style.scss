@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  padding: 3rem 1rem;
+}
+
+.project-name {
+  font-size: clamp(2.25rem, 6vw, 4rem);
+}
+
+.main-content h1 {
+  font-size: 2rem;
+}
+
+.site-footer {
+  display: none;
+}
