@@ -1,4 +1,4 @@
-# Hi, I'm David
+# Hi, I'm David Kivlichan
 
 I'm a machine learning engineer based in Toronto. I like building practical tools, creative coding sketches, and small experiments that make ideas easier to explore. My favourite flavour of gelato is lemon.
 
@@ -10,7 +10,7 @@ I'm a machine learning engineer based in Toronto. I like building practical tool
 
 ## Research
 
-- [Rule-Based Adversarial Learning Disguising and Recognizing Maliciousness in Opcodes](https://utoronto.scholaris.ca/server/api/core/bitstreams/07cb73b1-0f2e-4cc2-bb7c-a20e1b88ca88/content) - my MASc thesis on adversarial learning for opcode-based malware detection.
+- [My MASc thesis](https://utoronto.scholaris.ca/server/api/core/bitstreams/07cb73b1-0f2e-4cc2-bb7c-a20e1b88ca88/content) - adversarial learning for opcode-based malware detection.
 
 ## Elsewhere
 
